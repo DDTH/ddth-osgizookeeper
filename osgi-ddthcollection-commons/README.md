@@ -16,8 +16,8 @@ Third party libraries are distributed under their own license(s).
 
 ## Release-notes ##
 
-Latest stable release: v0.1.0.
+Latest stable release: v0.1.1.
 
-Latest SNAPSHOT release: v0.1.0-SNAPSHOT.
+Latest SNAPSHOT release: v0.1.1-SNAPSHOT.
 
 See [RELEASE-NOTES.md](RELEASE-NOTES.md).
