@@ -1,9 +1,9 @@
-DDTH OSGi Service Collection
-============================
+osgi-ddthcollection-commons
+===========================
 
-DDTH Collection of OSGi Services
+Common Libraries and Utilities
 
 
-0.1.x-SNAPSHOT - 2014-02-12
----------------------------
-Under development.
+v0.1.0 - 2014-02-13
+-------------------
+First release.

@@ -1,28 +1,23 @@
-DDTH OSGi Service Collection
-============================
+osgi-ddthcollection-commons
+===========================
 
-DDTH Collection of OSGi Services
+Common Libraries and Utilities
 
 Project home:
-[https://github.com/DDTH/osgi-ddthcollection](https://github.com/DDTH/osgi-ddthcollection)
+[https://github.com/osgi-ddthcollection/osgi-ddthcollection-commons](https://github.com/osgi-ddthcollection/osgi-ddthcollection-commons)
 
 
 ## License ##
 
-See LICENSE.txt for details. Copyright (c) 2013 Thanh Ba Nguyen.
+See LICENSE.txt for details. Copyright (c) 2014 Thanh Ba Nguyen.
 
 Third party libraries are distributed under their own license(s).
 
 
 ## Release-notes ##
 
-Latest stable release: N/A.
+Latest stable release: v0.1.0.
 
 Latest SNAPSHOT release: v0.1.0-SNAPSHOT.
 
-Xem thêm [RELEASE-NOTES.md](RELEASE-NOTES.md).
-
-
-## Installation ##
-
-Released as OSGi bundles, deployed onto [OSGi-Server](https://github.com/DDTH/osgiserver).
+See [RELEASE-NOTES.md](RELEASE-NOTES.md).
