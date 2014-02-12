@@ -10,7 +10,9 @@
 		<version>0.1.0-SNAPSHOT</version>
 	</parent>
 
+	<groupId>com.github.ddth</groupId>
 	<artifactId>osgi-ddthcollection-distribution</artifactId>
+	<version>0.1.0</version>
 	<packaging>pom</packaging>
 
 	<name>>osgi-ddthcollection-distribution</name>

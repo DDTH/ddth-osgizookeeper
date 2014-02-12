@@ -46,7 +46,7 @@
 		<moduleSet>
 			<useAllReactorProjects>true</useAllReactorProjects>
 			<includes>
-				<include>vng.up:*</include>
+				<include>com.github.ddth:osgi-ddthcollection-commons</include>
 			</includes>
 			<binaries>
 				<outputDirectory>dist</outputDirectory>
