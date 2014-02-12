@@ -5,12 +5,12 @@
 	<parent>
 		<groupId>com.github.ddth</groupId>
 		<artifactId>osgi-ddthcollection</artifactId>
-		<version>0.1.0</version>
+		<version>0.1.1-SNAPSHOT</version>
 	</parent>
 
 	<groupId>com.github.ddth</groupId>
 	<artifactId>osgi-ddthcollection-distribution</artifactId>
-	<version>0.1.0</version>
+	<version>0.1.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>&gt;osgi-ddthcollection-distribution</name>
