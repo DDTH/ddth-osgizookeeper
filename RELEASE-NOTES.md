@@ -1,9 +1,6 @@
-osgi-ddthcollection-commons
-===========================
+ddth-osgizookeeper release notes
+================================
 
-Common Libraries and Utilities
-
-
-v0.1.0 - 2014-02-13
--------------------
-First release.
+0.1.1 - 2014-02-17
+------------------
+- First release.
